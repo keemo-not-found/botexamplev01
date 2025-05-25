@@ -7,7 +7,7 @@ uses discord.js and REST to work with discord api
 
 ## Setup Instrucitions
 
-run: npm install discord.js @discordjs/builders @discordjs/rest discord-api-types/v9
+run: ```npm install discord.js @discordjs/builders @discordjs/rest discord-api-types/v9```
 
 Replace "YOUR_BOT_TOKEN", "YOUR_BOT_CLIENT_ID", and optionally "YOUR_SERVER_ID" with your actual bot credentials
 
